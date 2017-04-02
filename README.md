@@ -3,9 +3,9 @@ Mobile App projet maded in my course
 
 To run the app properly you have to install 3 - 4 things using command lines, in addition to the ionic and android dependencies :
 
-Installing bower -> npm install bower
-Installing the NgMap plugin -> bower install ngmap
-Installing Geolocation plugin -> cordova plugin add cordova-plugin-geolocation
+Installing bower -> npm install bower;
+Installing the NgMap plugin -> bower install ngmap;
+Installing Geolocation plugin -> cordova plugin add cordova-plugin-geolocation;
 Installing ngCordova -> bower install ngCordova
 
 You shouldn't got issue if you followed the instructions
